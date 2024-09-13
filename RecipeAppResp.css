@@ -1,0 +1,11 @@
+@media screen and (max-width:600px) {
+    header nav {
+        flex-direction: column;
+        height: 100px;
+    }
+
+    header nav form {
+        width: 80%;
+        margin-top: 10px;
+    }
+}
